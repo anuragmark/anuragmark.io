@@ -1,7 +1,7 @@
-#Main Header
+# Main Header
 
-####Education
+#### Education
 Computer Science
 
-###Work Experience
+### Work Experience
 Data Analytics Head
