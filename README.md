@@ -1,4 +1,4 @@
-# Main Header
+# Main Portfolio Website
 
 #### Education
 Computer Science
